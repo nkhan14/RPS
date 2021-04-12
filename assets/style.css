@@ -19,7 +19,7 @@ header > h1 {
     font-family: sans-serif;
 }
 
-.scoreBoard {
+.score-board {
     margin: 20px auto;
     border: 3px solid white;
     border-radius: 4px;
@@ -40,13 +40,13 @@ header > h1 {
     font-family: sans-serif;
 }
 
-#userLabel {
+#user-label {
     position: absolute;
     top: 30px;
     left: -20px;
 }
 
-#computerLabel {
+#computer-label {
     position: absolute;
     top: 30px;
     right: -35px;
@@ -81,7 +81,7 @@ header > h1 {
     background: #E25840;
 }
 
-#actionMessage {
+#action-message {
     text-align: center;
     color: white;
     font-family: sans-serif;
