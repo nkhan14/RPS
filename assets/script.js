@@ -15,14 +15,14 @@ function game(userChoice) {
 
 
 rock_div.addEventListener('click', function () {
-    game("R");
+    game("r");
 })
 
 paper_div.addEventListener("click", function () {
-  game("P");
+  game("p");
 })
 
 scissors_div.addEventListener("click", function () {
-  game("S");
+  game("s");
 })
 
